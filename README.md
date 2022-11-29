@@ -62,4 +62,8 @@ yarn lint:fix
   - <img width="1144" alt="body_post_man_send_mail" src="https://user-images.githubusercontent.com/61783362/204455793-336b1c80-e87b-43df-a4bc-b3c1caba582d.png">
 
 ## Video Demo
-https://drive.google.com/file/d/1x3R_4Lo8wKGeNuaRANMx-p3X2FCjBTve/view?usp=sharing
+
+
+
+https://user-images.githubusercontent.com/61783362/204461198-4026a6a5-d55d-4f17-9eac-2bb0937d9f1c.MP4
+
