@@ -61,4 +61,5 @@ yarn lint:fix
   - Endpoint: `/api/mail/send`
   - <img width="1144" alt="body_post_man_send_mail" src="https://user-images.githubusercontent.com/61783362/204455793-336b1c80-e87b-43df-a4bc-b3c1caba582d.png">
 
-
+## Video Demo
+https://drive.google.com/file/d/1x3R_4Lo8wKGeNuaRANMx-p3X2FCjBTve/view?usp=sharing
