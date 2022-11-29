@@ -59,4 +59,6 @@ yarn lint:fix
 - use postman
   - Method: POST
   - Endpoint: `/api/mail/send`
-    <img width="1133" alt="Screen Shot 2022-11-28 at 18 13 12" src="./docs/images/body_post_man_send_mail.png">
+  - <img width="1144" alt="body_post_man_send_mail" src="https://user-images.githubusercontent.com/61783362/204455793-336b1c80-e87b-43df-a4bc-b3c1caba582d.png">
+
+
